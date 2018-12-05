@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-## Hello There
+Sophie Ashcroft is a creative technologist in Manchester.
